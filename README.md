@@ -25,7 +25,11 @@ I used a few combination of SQL clauses to proffer solutions and they are as fol
 
 ### DATA SOURCING
 All datasets exist within the dannys_diner database schema
+USERS          |    EMPLOYEE
+:---:| :---:
+![](users.png) | ![](employee.png)
 
+** TABLE SALES **
 ![table_sales](https://user-images.githubusercontent.com/124166777/234735597-ed0ff9b6-2b90-4e70-9277-c3c648cb98af.png)
 
 
