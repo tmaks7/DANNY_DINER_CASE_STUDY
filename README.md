@@ -25,12 +25,12 @@ I used a few combination of SQL clauses to proffer solutions and they are as fol
 
 ### DATA SOURCING
 All datasets exist within the dannys_diner database schema
-USERS          |    EMPLOYEE
-:---:| :---:
-![](users.png) | ![](employee.png)
 
-** TABLE SALES **
-![table_sales](https://user-images.githubusercontent.com/124166777/234735597-ed0ff9b6-2b90-4e70-9277-c3c648cb98af.png)
+  SALES   | MENU   | MEMBERS
+  :---: | :---: | :---:
+![table_sales](https://user-images.githubusercontent.com/124166777/234735597-ed0ff9b6-2b90-4e70-9277-c3c648cb98af.png) | ![table_menu](https://user-images.githubusercontent.com/124166777/234799911-febef77f-98a7-4ff2-a396-1250609ca005.png) | ![table_member](https://user-images.githubusercontent.com/124166777/234800019-1ac4c6c2-2ac4-4eb0-8430-0201d3ee33f3.png)
+
+
 
 
 ### DATA TRANSFORMING
