@@ -24,6 +24,8 @@ I used a few combination of SQL clauses to proffer solutions and they are as fol
 + Windows Functions
 
 ### DATA SOURCING
+All datasets exist within the dannys_diner database schema
+
 ### DATA TRANSFORMING
 ### MODELING
 ### ANALYSIS AND VISUALIZATION
