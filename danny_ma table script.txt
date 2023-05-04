@@ -1,0 +1,47 @@
+create schema danny_diner
+
+create table danny_diner.Sales
+(
+	customer_id varchar(10),
+	order_date date,
+	product_id int
+);
+insert into danny_diner.Sales 
+values
+('A1', '2021-01-01', 1),
+('A1', '2021-01-01', 2),
+('A1', '2021-01-07', 2),
+('A1', '2021-01-10', 3),
+('A1', '2021-01-11', 3),
+('A1', '2021-01-11', 3),
+('B1', '2021-01-01', 2),
+('B1', '2021-01-02', 2),
+('B1', '2021-01-04', 1),
+('B1', '2021-01-11', 1),
+('B1', '2021-01-16', 3),
+('B1', '2021-02-01', 3),
+('C1', '2021-01-01', 3),
+('C1', '2021-01-01', 3),
+('C1', '2021-01-07', 3);
+
+create table danny_diner.Menu
+(
+	product_id int,
+	product_name varchar(20),
+	price int
+);
+insert into danny_diner.Menu 
+values
+(1, 'sushi', 10),
+(2, 'curry', 15),
+(3, 'ramen', 12);
+
+create table danny_diner.Members
+(
+	customer_id varchar(10),
+	join_date date
+);
+insert into test.Members 
+values
+('A1', '2021-01-07'),
+('B1', '2021-01-09');
