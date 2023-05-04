@@ -24,7 +24,7 @@ I used a few combination of SQL clauses to proffer solutions and they are as fol
 + Windows Functions
 
 ### DATA SOURCING
-All datasets exist within the dannys_diner database schema ![:point_down:](https://8weeksqlchallenge.com/case-study-1/):point_down:
+All datasets exist within the dannys_diner database schema [clear here](https://8weeksqlchallenge.com/case-study-1/):point_down:
 
   SALES   | MENU   | MEMBERS
   :---: | :---: | :---:
