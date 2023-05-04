@@ -34,5 +34,4 @@ All datasets exist within the dannys_diner database schema [here](https://8weeks
 
 
 ### MODELING
-### ANALYSIS AND VISUALIZATION
 ### CONCLUSION AND RECOMMENDATION
